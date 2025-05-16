@@ -2,7 +2,8 @@
 
 A health-education game teaching malaria prevention through a Snakes & Ladders-inspired adventure. Players climb ladders of prevention and avoid mosquito bites while learning real-world health strategies.
 
-![Game Screenshot](/screenshots/gameplay.png) <!-- Add a screenshot later -->
+![image](https://github.com/user-attachments/assets/d24428c5-4bdf-4566-a6b6-81d54edfeb8e)
+
 
 ## 🌟 Features
 
