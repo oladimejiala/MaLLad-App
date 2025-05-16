@@ -23,4 +23,4 @@ A health-education game teaching malaria prevention through a Snakes & Ladders-i
 ### Web Version
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/malaria-and-ladders.git
+   git clone https://github.com/oladimejiala/MaLLad-App.git
