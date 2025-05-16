@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mosquito and Ladder</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Mosquito and Ladder</h1>
+    <p class="subtitle">Fight malaria with prevention and treatment!</p>
+    
+    <div class="game-container">
+        <div class="players-info">
+            <div class="player-info player1-info">
+                <div class="player-info-avatar player1">1</div>
+                <span>Player 1</span>
+            </div>
+            <div class="player-info player2-info">
+                <div class="player-info-avatar player2">2</div>
+                <span>Player 2</span>
+            </div>
+        </div>
+        
+        <div class="board-container">
+            <div class="board" id="board"></div>
+        </div>
+        
+        <div class="controls">
+            <div class="status player1-turn" id="status">Player 1's Turn</div>
+            <div class="dice-container" id="dice">?</div>
+            <button class="roll-btn" id="rollBtn">Roll Dice</button>
+            <div class="win-message" id="winMessage"></div>
+        </div>
+        
+        <div class="education-modal" id="educationModal">
+            <div class="modal-content">
+                <h2 id="modalTitle">Health Tip</h2>
+                <div class="modal-body" id="modalBody"></div>
+                <button class="modal-close" id="modalClose">Continue</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
